@@ -1,2 +1,4 @@
 # Stock-market-scrapper
- Stock market scrapper using python
+Programming Language: Python
+Web Scraping Library: yfinance
+Data Analysis Libraries: pandas, matplotlib
